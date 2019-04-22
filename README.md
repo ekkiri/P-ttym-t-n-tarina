@@ -1,2 +1,2 @@
-# P-ttym-t-n-tarina
+# Paattymaton-tarina
 Helppo matopeli, jonka ulkonäkö pohjautuu saksalaiseen elokuvaan Unendliche Geschichte (Päättymätön tarina)
