@@ -269,19 +269,19 @@ public class Pelikentta extends JPanel implements ActionListener {
 			mato++;
 			score++;
 			switch (score) {
-			case 3:
+			case 4:
 				timer.setDelay(350);
 				level += 1;
 				break;
-			case 5:
+			case 8:
 				timer.setDelay(250);
 				level += 1;
 				break;
-			case 8:
+			case 12:
 				timer.setDelay(150);
 				level += 1;
 				break;
-			case 10:
+			case 15:
 				timer.setDelay(100);
 				level += 1;
 				break;
